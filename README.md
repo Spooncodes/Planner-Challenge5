@@ -3,7 +3,8 @@ This project was to make a work day scheduler to store daily/hourly routines for
 
 
 ### Links
-
+https://spooncodes.github.io/Planner-Challenge5/
+https://github.com/Spooncodes
 
 ### Images
 ![alt text](assets/images/work.png)
